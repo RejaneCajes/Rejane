@@ -1,5 +1,7 @@
 body {
     background-color: #d0e4fe;
+    border-style: solid;
+    border-radius: 6px;
 }
 
 h1 {
