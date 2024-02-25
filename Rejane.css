@@ -4,7 +4,9 @@ body {
 
 h1 {
     color: orange;
-    text-align: center;
+    text-align-last: center;
+    border-radius: 6px;
+    margin: 5px;
 }
 
 p {
