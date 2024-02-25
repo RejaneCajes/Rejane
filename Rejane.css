@@ -1,17 +1,18 @@
 body {
-    background-color: #d0e4fe;
+    background-color: #E37383;
     border-style: solid;
     border-radius: 6px;
 }
 
 h1 {
-    color: orange;
+    color: Maroon;
     text-align-last: center;
     border-radius: 6px;
     margin: 5px;
 }
 
 p {
+  margin:6px ;
     font-family: "Times New Roman";
     font-size: 20px;
 }
